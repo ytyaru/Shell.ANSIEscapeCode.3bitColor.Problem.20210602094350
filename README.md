@@ -4,6 +4,10 @@
 
 3-bit color problem (colors cannot be shared. Bold makes them brighter)
 
+# DEMO
+
+![0](res/terminal.png)
+
 # Requirement
 
 * <time datetime="2021-06-02T09:43:46+0900">2021-06-02</time>
